@@ -6,14 +6,11 @@ Print(rain) combines interactive Python lessons with the calming effect of rain 
 
 FEATURES
 
--Python Lessons: Learn Beginner Python basics.
-
 -Calming Rain Sounds: Soothing rain sounds to enhance concentration while coding.
 
 -User Registration and Login: Create an account to track progress and resume learning.
 
 BUILD
-Print(rain) was developed using:
 
 - Frontend: HTML, CSS, Javascript and Bootstrap for a responsive, user-friendly interface.
   

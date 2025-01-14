@@ -1,5 +1,3 @@
-Print(rain)
-
 Print(rain) is an easy-to-use platform designed to make learning Python programming both enjoyable and effective. 
 Developed as an End of Semester Project, it was inspired by the challenges many new code learners face in maintaining focus while filled with distractions. 
 Print(rain) combines interactive Python lessons with the calming effect of rain sounds, providing a peaceful and immersive space to help learners stay focused and motivated. 

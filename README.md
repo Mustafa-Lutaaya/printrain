@@ -18,9 +18,6 @@ BUILD
   
 - Deployment: Backend was Hosted on Render & Frontend was Hosted on Netlify for reliable access to the platform.
 
-
-ACCESS
-
 Simply visit the Print(rain) website https://printrain.netlify.app to start learning. Register, log in, relax, and begin your coding journey.
 
 LICENSE
